@@ -14,15 +14,15 @@
 
 #### .env file
 - The content of the .env file should be:
-POSTGRES_HOST = 127.0.0.1
-POSTGRES_DATABASE = storefront_dev
-POSTGRES_DATABASE_TEST = storefront_test
-POSTGRES_USER = storeFront_user
-POSTGRES_PASSWORD = password123
-ENV = dev
-BCRYPT_PASSWORD = my-secret-password
-SALT_ROUNDS = 10
-SECRET_TOKEN=storefrontbackend
+   - POSTGRES_HOST = 127.0.0.1
+   - POSTGRES_DATABASE = storefront_dev
+   - POSTGRES_DATABASE_TEST = storefront_test
+   - POSTGRES_USER = storeFront_user
+   - POSTGRES_PASSWORD = password123
+   - ENV = dev
+   - BCRYPT_PASSWORD = my-secret-password
+   - SALT_ROUNDS = 10
+   - SECRET_TOKEN=storefrontbackend
 
 ### test and run the code
 - Run the following commands:
