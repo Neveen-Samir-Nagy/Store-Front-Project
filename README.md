@@ -24,7 +24,7 @@ BCRYPT_PASSWORD = my-secret-password
 SALT_ROUNDS = 10
 SECRET_TOKEN=storefrontbackend
 
-###### test and run the code
+### test and run the code
 - Run the following commands:
-    - npm run test --> for building the project and then run the tests
-    - npm run start
+    - `npm run test` --> for building the project and then run the tests
+    - `npm run start`
